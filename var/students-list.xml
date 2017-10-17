@@ -21,6 +21,13 @@
         <github>pawelt7</github>
         <group>Student</group>
     </student>
+     <student>
+        <firstname>Radosław</firstname>
+        <lastname>Nicieja</lastname>
+        <email>radoslawnicieja@gmail.com</email>
+        <github>radeknic</github>
+        <group>Student</group>
+    </student>
 </students>
 
 
